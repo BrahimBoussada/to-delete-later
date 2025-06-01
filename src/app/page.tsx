@@ -9,6 +9,7 @@ export default function Home() {
       <p>So be ready</p>
       <p>I AM READY!</p>
       <p>LET'S DO IT!</p>
+      <p>NOW</p>
     </main>
   );
 }
