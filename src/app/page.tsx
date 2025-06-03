@@ -16,7 +16,6 @@ export default function Home() {
       <p>....</p>
       <p>.</p>
       <p>salldıjasıod</p>
-      <p>asldjasojıdsao</p>
     </main>
   );
 }
