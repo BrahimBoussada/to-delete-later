@@ -14,7 +14,6 @@ export default function Home() {
       <p>!</p>
       <p>DAMN THIS!</p>
       <p>....</p>
-      <p>.</p>
     </main>
   );
 }
