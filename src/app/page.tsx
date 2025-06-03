@@ -12,7 +12,6 @@ export default function Home() {
       <p>NOW</p>
       <p>NOWWWWW</p>
       <p>!</p>
-      <p>DAMN THIS!</p>
     </main>
   );
 }
