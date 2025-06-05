@@ -8,6 +8,8 @@ export default function Home() {
       <p>The world will end one day</p>
       <p>So be ready</p>
       <p>I AM READY!</p>
+
+      <p>NOW</p>
     </main>
   );
 }
